@@ -1,0 +1,12 @@
+
+(lparen, ()
+(ident, a)
+(plus, +)
+(number, 15)
+(rparen, ))
+(times, *)
+(ident, b)
+(minus, -)
+(number, 10)
+(times, *)
+(other, 1c1)

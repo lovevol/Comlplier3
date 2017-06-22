@@ -1,0 +1,12 @@
+
+(lparen, ()
+(ident, a)
+(rparen, ))
+(plus, +)
+(ident, b)
+(minus, -)
+(lparen, ()
+(ident, c)
+(plus, +)
+(ident, b)
+(rparen, ))
